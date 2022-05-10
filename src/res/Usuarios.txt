@@ -1,0 +1,6 @@
+Homero;Restoran;180;1700
+Marge;Tienda;120;1500
+Lisa;VisitaGuiada;90;900
+Bart;Entretenimiento;90;900
+Abraham;Fiesta;240;1100
+Montgomery;Terror;300;5000

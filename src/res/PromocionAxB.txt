@@ -1,0 +1,6 @@
+Ambito Policial y Judicial;VISITAGUIADA;AxB;1;Springfield Court House;Police Station;i cant believe its a law firm
+Cultura;ENTRETENIMIENTO;AxB;1;Springfield Opera House;Castillo de Equalia;Cine Azteca
+Experiencia Terrorifica;TERROR;AxB;2;Lake of Terror;Casa antigua de Amytiville;Hotel del Sr. Burns
+Combo Gloton;RESTORAN;AxB;1;Restaurante de Luigi;Johnny Fiestas;Taberna de Moe
+Noche a la Altura;FIESTA;AxB;1;Little Black Box;Elite Yacht Club;Springfield Country Club
+Salud y Bienestar;TIENDA;AxB;1;Springfield Mall;El mundo Zurdo;Eye Caramba
