@@ -1,0 +1,2 @@
+Barney;Tienda;180;2000
+Apu;Restoran;60;1000

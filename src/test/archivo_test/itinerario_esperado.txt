@@ -1,0 +1,5 @@
+Itinerario del usuario:
+
+  Excursion: 742 Evergreen Terrace  --> tipo: <VISITAGUIADA>, costo: <$ 250,00>, tiempo: <30 min.>
+
+  Excursion: Mapple  --> tipo: <VISITAGUIADA>, costo: <$ 400,00>, tiempo: <120 min.>
