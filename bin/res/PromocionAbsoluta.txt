@@ -1,0 +1,6 @@
+Combo Basico Springfield;VISITAGUIADA;Absoluta;500;742 Evergreen Terrace;744 Evergreen Terrace;Planta Nuclear de Springfield
+Videojuegos;ENTRETENIMIENTO;Absoluta;250;Noiseland Video Arcade;Captain Blips Zapateria
+Lado Oscuro;TERROR;Absoluta;290;Mansion Burns;Tapped Out
+Comida Rapida;RESTORAN;Absoluta;320;Krusty Burger;Taberna de Moe;Gulp N Blow
+Noche Infinita;FIESTA;Absoluta;400;Club nocturno Moe;Barney Bowl-A-Rama;Chez Guevara;The Beach
+TodoCompra;TIENDA;Absoluta;300;Kwik-E-Mart;Sprawl Mart;Blocko Store

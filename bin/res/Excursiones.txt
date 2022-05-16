@@ -1,0 +1,66 @@
+742 Evergreen Terrace;VisitaGuiada;30;250;5
+744 Evergreen Terrace;VisitaGuiada;30;240;6
+Planta Nuclear de Springfield;VisitaGuiada;80;350;3
+Estudios Krustylu;VisitaGuiada;40;290;4
+Springfield Court House;VisitaGuiada;50;260;2
+Police Station;VisitaGuiada;30;280;5
+Observatorio de Springfield;VisitaGuiada;25;300;3
+Escuela primaria de Springfield;VisitaGuiada;30;260;4
+Iglesia Evangelista;VisitaGuiada;55;270;6
+Mapple;VisitaGuiada;120;400;2
+i cant believe its a law firm;VisitaGuiada;15;300;5
+Cabaña de Willie;VisitaGuiada;10;260;6
+Casa de Skinner;VisitaGuiada;30;280;3
+Springfield Airport;VisitaGuiada;45;320;4
+Parque de Tomy y Daly;Entretenimiento;120;310;2
+Noiseland Video Arcade;Entretenimiento;30;150;5
+Springfield Opera House;Entretenimiento;60;220;3
+Mr. Burns Casino;Entretenimiento;120;200;4
+Barney Bowl-A-Rama;Entretenimiento;90;180;6
+Captain Blips Zapateria;Entretenimiento;40;230;2
+Cine Azteca;Entretenimiento;90;210;5
+Bookaccinos;Entretenimiento;80;240;6
+Castillo de Equalia;Entretenimiento;120;290;3
+Canodromo de Springfield;Entretenimiento;60;250;4
+Tunnel of Love;Entretenimiento;30;270;2
+Dimension 3D;Terror;60;220;5
+Mansion Burns;Terror;90;190;3
+Tostadora Magica;Terror;150;380;4
+Cementerio de Springfield;Terror;30;140;6
+Tapped Out;Terror;40;160;2
+Casa antigua de Amytiville;Terror;45;170;5
+Nave espacial de Kang y Kodos;Terror;60;200;6
+Hotel del Sr. Burns;Terror;80;150;3
+Springfield Zombie;Terror;160;250;4
+Lake of Terror;Terror;75;240;2
+Gulp N Blow;Restoran;60;180;5
+Krusty Burger;Restoran;25;150;3
+Johnny Fiestas;Restoran;25;170;4
+Coffee Shop;Restoran;35;160;6
+Taberna de Moe;Restoran;40;140;2
+Sha-Boom Ka-Boom! Café;Restoran;30;190;5
+Restaurante de Luigi;Restoran;50;220;6
+Stus Disco;Fiesta;100;320;3
+Little Black Box;Fiesta;80;280;4
+Springfield Country Club;Fiesta;110;270;2
+Elite Yacht Club;Fiesta;120;300;5
+Fabrica Ajax;Fiesta;85;290;3
+She She Lounge;Fiesta;95;330;4
+Club nocturno Moe;Fiesta;110;210;6
+Chez Guevara;Fiesta;95;200;5
+The Beach;Fiesta;100;180;6
+Kwik-E-Mart;Tienda;40;150;3
+Blocko Store;Tienda;50;180;4
+Springfield Grocery Store;Tienda;30;170;2
+The Wooly Bully;Tienda;25;140;5
+Duff Center Arena;Tienda;50;200;3
+El mundo Zurdo;Tienda;30;190;4
+Tienda de Comics;Tienda;35;170;6
+Kings Toots Music Store;Tienda;40;210;2
+Sprawl Mart;Tienda;80;220;5
+Eye Caramba;Tienda;30;230;6
+Springfield Mall;Tienda;60;240;3
+Lard Lad Donuts;Tienda;50;160;4
+Try-N-Save;Tienda;45;130;2
+The Vast Waistband;Tienda;35;250;5
+Stoners Pot Palace;Tienda;40;280;3

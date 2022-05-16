@@ -1,0 +1,6 @@
+Combo Religioso;VISITAGUIADA;Porcentual;40;744 Evergreen Terrace;Iglesia Evangelista
+Animales;ENTRETENIMIENTO;Porcentual;45;Parque de Tomy y Daly;Canodromo de Springfield
+Viaje de Muerte;TERROR;Porcentual;35;Cementerio de Springfield;Springfield Zombie
+Cafe Late;RESTORAN;Porcentual;25;Sha-Boom Ka-Boom! Café;Coffee Shop
+Lado Inclusivo;FIESTA;Porcentual;40;Stus Disco;Fabrica Ajax;She She Lounge
+Musica y Cerveza;TIENDA;Porcentual;50;Tienda de Comics;Kings Toots Music Store;Duff Center Arena;Springfield Grocery Store
